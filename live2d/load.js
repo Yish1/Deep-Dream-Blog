@@ -21,8 +21,8 @@ const initConfig = {
   },
   night: "toggleNightMode()",
   model: [
-    "./Diana/Diana.model3.json",
-    "./Ava/Ava.model3.json"    
+    "https://gcore.jsdelivr.net/gh/yish1/Deep-Dream-Blog/live2d/Diana/Diana.model3.json",
+    "https://gcore.jsdelivr.net/gh/yish1/Deep-Dream-Blog/live2d/Ava/Ava.model3.json"    
   ],
   tips: true,
   onModelLoad: onModelLoad
